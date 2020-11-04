@@ -2,7 +2,7 @@
 
 #### I'm a full-stack engineer 🔥
 
-- I mainly do github activities and qiita activities 🚀
+- I mainly do github activities and qiita activities 
 
 **My SNS**
 - https://qiita.com/airix (japanese)
